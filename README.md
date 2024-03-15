@@ -4,7 +4,7 @@
 [Rust](https://www.rust-lang.org/), [Python](https://www.python.org/),
 [Go](https://go.dev/), [Lua](https://www.lua.org/),
 [Nix](https://nixos.org/),
-[Shell script](https://en.wikipedia.org/wiki/Shell_script),
+[Shell Script](https://en.wikipedia.org/wiki/Shell_script),
 [SQL](https://en.wikipedia.org/wiki/SQL),
 [Markdown](https://en.wikipedia.org/wiki/Markdown),
 [LaTeX](https://www.latex-project.org/),
