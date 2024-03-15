@@ -1,6 +1,22 @@
 # Languages
-C, C#, Rust, Python, Go, Lua, Nix, Shell, SQL, Markdown, LaTeX, JSON, YAML, TOML, HTML5, CSS3
+[C](https://sv.wikipedia.org/wiki/C99),
+[C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)),
+[Rust](https://www.rust-lang.org/), [Python](https://www.python.org/),
+[Go](https://go.dev/), [Lua](https://www.lua.org/),
+[Nix](https://nixos.org/),
+[Shell Script](https://en.wikipedia.org/wiki/Shell_script),
+[SQL](https://en.wikipedia.org/wiki/SQL),
+[Markdown](https://en.wikipedia.org/wiki/Markdown),
+[LaTeX](https://www.latex-project.org/),
+[JSON](https://www.json.org/),
+[YAML](https://yaml.org/),
+[TOML](https://toml.io/),
+[HTML](https://en.wikipedia.org/wiki/HTML),
+[CSS](https://en.wikipedia.org/wiki/CSS)
 # Systems
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
+[NixOS](https://nixos.org/),
+[Gentoo](https://www.gentoo.org/),
+[Arch](https://archlinux.org/),
+[FreeBSD](https://www.freebsd.org/)
 # Support
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
