@@ -30,8 +30,6 @@
 [Opus Magnum](https://www.zachtronics.com/opus-magnum/),
 [EXAPUNKS](https://www.zachtronics.com/exapunks/),
 [SHENZHEN I/O](https://www.zachtronics.com/shenzhen-io/),
-[Infinifactory](https://store.steampowered.com/app/300570/),
-[TIS-100](https://store.steampowered.com/app/370360/),
-[SpaceChem](https://store.steampowered.com/app/92800/),
 [Baba Is You](https://www.hempuli.com/baba/),
-[Teardown](https://store.steampowered.com/app/1167630/)
+[Teardown](https://store.steampowered.com/app/1167630/),
+[Portal](https://store.steampowered.com/app/400/)
