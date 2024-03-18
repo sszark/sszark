@@ -1,5 +1,5 @@
 # About
-Hey. I'm Sszark and i love problem solving and critical thinking. My primary role is being a site reliability engineer.  
+I love problem solving and critical thinking. My primary role is being a site reliability engineer.  
 I'm also a backend developer with a hobby interest for game development and 3D modelling.
 # Proficiencies
 ## Languages
