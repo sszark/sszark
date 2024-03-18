@@ -1,6 +1,6 @@
 # About
 Hey. I'm Sszark and i love problem solving and critical thinking. My primary role is being a site reliability engineer.  
-But i'm also a backend developer with a hobby interest in game development and 3D modelling.
+I'm also a backend developer with a hobby interest for game development and 3D modelling.
 # Proficiencies
 ## Languages
 [C](https://sv.wikipedia.org/wiki/C99),
