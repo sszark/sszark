@@ -20,9 +20,9 @@
 [NixOS](https://nixos.org/),
 [Gentoo](https://www.gentoo.org/),
 [Arch](https://archlinux.org/),
-[Debian](),
-[Ubuntu](),
-[Red Hat Enterprise](),
+[Debian](https://www.debian.org/),
+[Ubuntu](https://ubuntu.com/),
+[RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux),
 [FreeBSD](https://www.freebsd.org/)
 # Favorites
 ## Logic Games
