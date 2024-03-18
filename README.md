@@ -1,3 +1,6 @@
+# About
+Hey. I'm Sszark and i love problem solving and critical thinking. My primary role is being a site reliability engineer.  
+But i'm also a backend developer with a hobby interest in game development and 3D modelling.
 # Proficiencies
 ## Languages
 [C](https://sv.wikipedia.org/wiki/C99),
@@ -30,6 +33,9 @@
 [Opus Magnum](https://www.zachtronics.com/opus-magnum/),
 [EXAPUNKS](https://www.zachtronics.com/exapunks/),
 [SHENZHEN I/O](https://www.zachtronics.com/shenzhen-io/),
+[SpaceChem](https://www.zachtronics.com/spacechem/),
 [Baba Is You](https://www.hempuli.com/baba/),
 [Teardown](https://store.steampowered.com/app/1167630/),
 [Portal](https://store.steampowered.com/app/400/)
+# Support
+[![Ko-Fi](https://img.shields.io/badge/donate_a_matcha-5AB45A?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/B0B2VTX0Z)
