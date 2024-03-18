@@ -1,8 +1,11 @@
-# Languages
+# Proficiencies
+## Languages
 [C](https://sv.wikipedia.org/wiki/C99),
 [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)),
-[Rust](https://www.rust-lang.org/), [Python](https://www.python.org/),
-[Go](https://go.dev/), [Lua](https://www.lua.org/),
+[Rust](https://www.rust-lang.org/),
+[Go](https://go.dev/),
+[Python](https://www.python.org/),
+[Lua](https://www.lua.org/),
 [Nix](https://nixos.org/),
 [Shell Script](https://en.wikipedia.org/wiki/Shell_script),
 [SQL](https://en.wikipedia.org/wiki/SQL),
@@ -13,10 +16,25 @@
 [TOML](https://toml.io/),
 [HTML](https://en.wikipedia.org/wiki/HTML),
 [CSS](https://en.wikipedia.org/wiki/CSS)
-# Systems
+## Systems
 [NixOS](https://nixos.org/),
 [Gentoo](https://www.gentoo.org/),
 [Arch](https://archlinux.org/),
+[Debian](),
+[Ubuntu](),
+[Red Hat Enterprise](),
 [FreeBSD](https://www.freebsd.org/)
-# Support
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+# Favorites
+## Logic Games
+- [Factorio](https://www.factorio.com/)
+- [Opus Magnum](https://www.zachtronics.com/opus-magnum/)
+- [EXAPUNKS](https://www.zachtronics.com/exapunks/)
+- [SHENZHEN I/O](https://www.zachtronics.com/shenzhen-io/)
+- [Infinifactory](https://store.steampowered.com/app/300570/)
+- [TIS-100](https://store.steampowered.com/app/370360/)
+- [SpaceChem](https://store.steampowered.com/app/92800/)
+- [Baba Is You](https://www.hempuli.com/baba/)
+- [Teardown](https://store.steampowered.com/app/1167630/)
+- [The Enjenir](https://store.steampowered.com/app/1800940/)
+- [Portal](https://store.steampowered.com/app/400/)
+- [Portal 2](https://store.steampowered.com/app/620/)
